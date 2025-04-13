@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Notes
+
+This is an assesment task which fetches the data from dummyjson api. 
+It has three states Success, Empty and Error and by default success state is applied 
+It is mobile responsive and to view product detail click on the card to open modal and scroll down in detail portion to view other details 
